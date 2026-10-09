@@ -1,0 +1,1 @@
+pip install fastapi uvicorn sqlalchemy pymysql alembic python-dotenv python-jose passlib[bcrypt] python-multipart pymupdf python-docx google-generativeai pydantic[email]
